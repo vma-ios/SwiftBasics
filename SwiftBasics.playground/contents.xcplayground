@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
     <pages>
         <page name='const vs vars'/>
         <page name='func'/>
@@ -9,5 +9,8 @@
         <page name='stored vs computed prop'/>
         <page name='prop observers'/>
         <page name='lazy var'/>
+        <page name='protocols &amp; extensions'/>
+        <page name='closures'/>
+        <page name='codable &amp; saving data'/>
     </pages>
 </playground>

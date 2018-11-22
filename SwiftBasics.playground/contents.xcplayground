@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
     <pages>
         <page name='const vs vars'/>
         <page name='func'/>
@@ -12,5 +12,7 @@
         <page name='protocols &amp; extensions'/>
         <page name='closures'/>
         <page name='codable &amp; saving data'/>
+        <page name='concurrency - dispatch queues'/>
+        <page name='concurrency - operations'/>
     </pages>
 </playground>
